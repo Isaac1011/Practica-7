@@ -2,4 +2,11 @@
 
 # include "Definiciones.h"
 
-/* código implementación de todas las funciones */
+/* cï¿½digo implementaciï¿½n de todas las funciones */
+void pintarFondo(){
+    juego = initscr();
+    printw("Hhola mundo");
+    refresh();
+    getch();
+    endwin();
+}

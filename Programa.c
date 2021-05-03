@@ -1,12 +1,11 @@
 /* Programa principal */ 
-
 # include "Definiciones.h"
 # include "Funciones.c"
 
 # include <stdio.h>
 int main(){
 	
-	/* código principal de ejecución */
-	
+	/* cï¿½digo principal de ejecuciï¿½n */
+	pintarFondo();
 	return 0;
 }
